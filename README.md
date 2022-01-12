@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🙋‍ My name is Yuri
-- 💻 I am a Back-End Developer
+- 💻 I am a Back-end Developer
 - ♥ I like coffee and webtoons
 
 </br>
